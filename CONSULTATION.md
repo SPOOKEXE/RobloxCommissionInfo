@@ -15,7 +15,7 @@ My consultation work is essentially one of three things;
 ### Terms and Conditions
 
 - **I will not script anything in your game after giving consultation. Consultation is to provide ideas and not actually implementing them.**
-- **You will not receive your consultation until after the upfront payment is completed.**
+- **You will not receive your consultation until after the upfront payment is completed, which is 50% of the total cost.**
 - The consultation will occur on **discord**. This mainly will be in direct messages or any dedicated server / group chat for group consultations.
 - I can provide a sample consultation for **one** of your **smaller** consulted pieces.
 - I will not consult scripts longer than 1000 lines or ridiculously messy / troll code.
